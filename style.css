@@ -20,3 +20,6 @@ section {
 #gallery .row > * {
   padding: 0;
 }
+.bolded {
+  font-weight: bold;
+}
